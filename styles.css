@@ -1,0 +1,63 @@
+/* firstsection starts */
+body {
+  margin: 0;
+}
+.firstdiv {
+    /* border: 3px solid black; */
+    display: flex;
+    justify-content: space-evenly;
+    height: 170px;
+    background-color: burlywood;
+    
+}
+.seconddiv {
+    /* border: 3px solid purple; */
+    display: flex;
+    
+}
+.thirddiv {
+    /* border: 3px solid tomato; */
+    background-image: url(background.jpeg);
+    justify-content: center;
+    height: 600px;
+    text-align: center;
+}
+img {
+    /* border-radius:  */
+    height: 150px;
+    width: 150px;
+    padding-right: 30px;
+    background-color: burlywood;
+    padding: 10px 5px 10px 0;
+}
+h3 {
+    padding-top: 60px;
+}
+.music {
+     padding-top: 50px;
+}
+.fourthdiv {
+    padding-top: 100px;
+    font-size: x-large;
+}
+button {
+    font-size: larger;
+    background-color: #FF731D;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
