@@ -44,8 +44,8 @@ button {
     font-size: larger;
     background-color: #FF731D;
 }
-button :hover {
-    color: tomato
+button:hover {
+    color: rgb(241, 152, 136);
 }
 
 
